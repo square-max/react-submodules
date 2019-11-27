@@ -1,7 +1,7 @@
 {
   "name": "react-submodules",
   "version": "0.1.0",
-  "homepage": "http://simoe.github.io/react-submodules",
+  "homepage": "https://sqare-max.github.io/react-submodules",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
