@@ -1,0 +1,7 @@
+.checklist-item{
+    list-style: none;
+}
+
+.checklist-item li.checked{
+    text-decoration: line-through;
+}

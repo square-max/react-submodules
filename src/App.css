@@ -1,0 +1,22 @@
+body, html{
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+
+}
+
+.submodule{
+  padding: 1rem;
+  background-color: white;
+}
