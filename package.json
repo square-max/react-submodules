@@ -1,13 +1,13 @@
 {
   "name": "react-submodules",
   "version": "0.1.0",
-  "homepage": "https://sqare-max.github.io/react-submodules",
+  "homepage": "https://square-max.github.io/react-submodules",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-icons": "^3.8.0",
+
     "react-scripts": "3.2.0"
   },
   "scripts": {
